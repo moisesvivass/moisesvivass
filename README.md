@@ -1,32 +1,39 @@
-## Hi, I'm Moises Vivas 👋
+# Moises Vivas
 
-Data Analyst · Building Python systems that solve real problems using AI
+Operations professional building data tools and web applications with Python and AI-assisted development · Toronto, Canada
 
----
+## Projects
 
-### 🚀 Featured Projects
-
-| Project | Stack | Live |
+| Project | Stack | Status |
 |---|---|---|
-| [📊 Canada Labour Market Analysis](https://github.com/moisesvivass/canada-labour-market-analysis) | Python · FastAPI · PostgreSQL · Pandas · Claude AI | [live](https://canada-labour-market-analysis.vercel.app/) |
-| [🏗️ Construction Analytics API](https://github.com/moisesvivass/construction-analytics-api) | FastAPI · PostgreSQL · Pandas · Claude AI · Chart.js | [live](https://web-production-de6e76.up.railway.app/dashboard) |
-| [💰 Construction Cost Tracker](https://github.com/moisesvivass/construction-cost-tracker) | Flask · PostgreSQL · Bootstrap · Chart.js | [live](https://web-production-d477f.up.railway.app) |
-| [📬 Paystub Analyzer](https://github.com/moisesvivass/paystub-analyzer) | Python · Gmail API · Claude AI · Pydantic · Docker | CLI tool |
+| Instagram Creator Analytics Dashboard | React, FastAPI, PostgreSQL, Instagram Graph API, Claude AI | Private (in use by a 26K+ follower creator) |
+| Canada Labour Market Analysis | React, TypeScript, FastAPI, PostgreSQL, Pandas, Claude AI, Bank of Canada Valet API | [Live](https://canada-labour-market-analysis.vercel.app) |
+| Construction Analytics API | FastAPI, PostgreSQL, Pandas, Claude AI, SQLAlchemy | [Live Demo](https://web-production-de6e76.up.railway.app/dashboard) |
+| Paystub Analyzer | Python, Gmail API, Claude AI, Pydantic, Docker, GitHub Actions, SQLite | CLI tool, GitHub |
 
----
+## Tech Stack
 
-### 🛠️ Tech Stack
+**Languages:** Python · SQL · TypeScript
 
-**Languages:** Python · SQL  
-**Frameworks:** FastAPI · Flask  
-**Data:** PostgreSQL · SQLite · Pandas · SQLAlchemy  
-**AI:** Anthropic Claude API  
-**Tools:** Docker · GitHub Actions · Railway · Git
+**Frontend:** React · Tailwind CSS · shadcn/ui · Vite
 
----
+**Backend:** FastAPI · Flask
 
-### 📍 About Me
+**Data:** PostgreSQL · SQLite · Pandas · SQLAlchemy
 
-- 🧠 Problem solver who uses AI and data to build things that actually work
-- 🤖 Comfortable working with Claude API to build real, deployed projects
-- 🌎 Based in Toronto · Open to Data Analyst roles
+**AI:** Claude API · Claude Code
+
+**APIs:** Instagram Graph API · Statistics Canada API · Bank of Canada Valet API · Gmail API
+
+**Testing:** pytest · httpx
+
+**Infra:** Docker · GitHub Actions · Railway · Vercel · Git
+
+## About
+
+- Operations professional who builds tools to solve real problems using AI-assisted development
+- 4+ years coordinating crews and field logistics on municipal construction projects in Toronto
+- Background in IT + Organizational Psychology
+- Based in Toronto · Looking for Business Operations / Ops Analyst roles
+
+[github.com/moisesvivass](https://github.com/moisesvivass)
